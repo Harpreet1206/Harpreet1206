@@ -24,4 +24,11 @@ As a passionate Full Stack Developer from India 🇮🇳, I've honed my skills t
 
 ![Harpreet1206's Stats](https://github-readme-stats.vercel.app/api?username=Harpreet1206&theme=vue&show_icons=true&hide_border=true&count_private=true)![Harpreet1206's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreet1206&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harpreet-singh-a50699b2/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Harpreet%20S-blue?style=flat"></a>
+<a href="mailto:freelancerw9@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-harpreet.harry662%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 #### Top Repositories
