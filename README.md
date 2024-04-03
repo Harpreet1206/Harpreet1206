@@ -10,11 +10,11 @@ I am a senior full-stack web developer with a track record of delivering large-s
 
 Listed below are my experience and skills:
 
-✅ Frontend: AngularJS, Vue JS, WordPress, ReactJS/Redux, Bootstrap, JavaScript, TypeScript, jQuery, Ajax, HTML5, Material UI.
-✅ Backend: NodeJS, ExpressJS, PHP, Laravel, CakePHP, Yii, WordPress, RESTful API, GraphQL
-✅ Mobile App: React-Native, Ionic, Flutter, Apache Cordova, IoT, Socket.io, iOS & Android.
-✅ Database: MongoDB, PostgreSQL, MongoDB, MySQL.
-✅ Designing: UI/UX, Photoshop, Adobe XD, Adobe Illustrator, Corel Draw.
+✅ Frontend: AngularJS, Vue JS, WordPress, ReactJS/Redux, Bootstrap, JavaScript, TypeScript, jQuery, Ajax, HTML5, Material UI.<br/>
+✅ Backend: NodeJS, ExpressJS, PHP, Laravel, CakePHP, Yii, WordPress, RESTful API, GraphQL<br/>
+✅ Mobile App: React-Native, Ionic, Flutter, Apache Cordova, IoT, Socket.io, iOS & Android.<br/>
+✅ Database: MongoDB, PostgreSQL, MongoDB, MySQL.<br/>
+✅ Designing: UI/UX, Photoshop, Adobe XD, Adobe Illustrator, Corel Draw.<br/>
 
 I'm always looking for new challenges to improve my personal and professional skills.</p>
 <p dir="auto"></p>
