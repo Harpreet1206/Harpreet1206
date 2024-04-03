@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Harpreet. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/services/page/b14031319a83aab72b/"><img width="80%" alt="Hello, I'm Harpreet. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -22,6 +22,6 @@ As a passionate Full Stack Developer from India 🇮🇳, I've honed my skills t
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-#### Top Repositories
-
 ![Harpreet1206's Stats](https://github-readme-stats.vercel.app/api?username=Harpreet1206&theme=vue&show_icons=true&hide_border=true&count_private=true)![Harpreet1206's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreet1206&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
+#### Top Repositories
