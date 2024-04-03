@@ -1,9 +1,22 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Hallo There</h2><a id="user-content-hallo-there" class="anchor" aria-label="Permalink: Hallo There" href="#hallo-there"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"> 
-As a software engineer with a Bachelor's degree in Computer Science and Information Technology, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
-</p><p dir="auto">One area where I have particularly excelled is in using Angular, a popular front-end web development framework. Since 2020, I have been working extensively with Angular to develop dynamic, responsive user interfaces that deliver a seamless user experience. I am highly skilled in using Angular to build complex applications, and I enjoy keeping up to date with the latest trends and updates in the framework.</p>
-<p dir="auto">In addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations.</p>
-<p dir="auto">Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.</p>
+<p dir="auto">
+✅ High-Quality Work
+✅ Cost-Efficient Services
+✅ Fluent English Verified
+✅ 9+ Years Of Experience
+✅ Long-term working relationship
+
+I am a senior full-stack web developer with a track record of delivering large-scale high-performance products and have professional experience in various technologies of frontend and backend development.
+
+Listed below are my experience and skills:
+
+✅ Frontend: AngularJS, Vue JS, WordPress, ReactJS/Redux, Bootstrap, JavaScript, TypeScript, jQuery, Ajax, HTML5, Material UI.
+✅ Backend: NodeJS, ExpressJS, PHP, Laravel, CakePHP, Yii, WordPress, RESTful API, GraphQL
+✅ Mobile App: React-Native, Ionic, Flutter, Apache Cordova, IoT, Socket.io, iOS & Android.
+✅ Database: MongoDB, PostgreSQL, MongoDB, MySQL.
+✅ Designing: UI/UX, Photoshop, Adobe XD, Adobe Illustrator, Corel Draw.
+
+I'm always looking for new challenges to improve my personal and professional skills.</p>
 <p dir="auto"></p>
 portfolio
 <a href="https://portfolio-and-blog-vert.vercel.app/" rel="nofollow">Check</a>
