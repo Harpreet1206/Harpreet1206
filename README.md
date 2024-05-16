@@ -28,7 +28,7 @@ As a passionate Full Stack Developer from India 🇮🇳, I've honed my skills t
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harpreet-singh-a50699b2/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Harpreet%20S-blue?style=flat"></a>
-<a href="mailto:freelancerw9@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-harpreet.harry662%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:harpreet.harry662@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-harpreet.harry662%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 #### Top Repositories
